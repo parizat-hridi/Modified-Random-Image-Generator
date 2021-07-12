@@ -54,7 +54,7 @@ The [Modified Version](https://parizat-hridi.github.io/Modified-Random-Image-Gen
 
 ```    
 ----
-## Advantages of TIMEKEEPER
+## Advantages 
 * Every time you reload or land on the page, you will see a new image. There's a button also to change the image.
 * There's a button to tweet the image. You can tweet image directly by using our website.
 * My website gives you the advantage of downloading the image💛
