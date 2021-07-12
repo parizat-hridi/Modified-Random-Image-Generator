@@ -5,7 +5,7 @@ The [Modified Version](https://parizat-hridi.github.io/Modified-Random-Image-Gen
 
 ## Visit the live App here ==> https://parizat-hridi.github.io/Modified-Random-Image-Generator/
 
-## Visual Representation of GeneratorMix App:
+## Visual Representation of the App:
 
 ![ss](https://user-images.githubusercontent.com/43074604/125284011-c6550100-e33a-11eb-8a83-cc5ebf624b78.png)
 
