@@ -60,8 +60,6 @@ The [Modified Version](https://parizat-hridi.github.io/Modified-Random-Image-Gen
 * My website gives you the advantage of downloading the image💛
 ----
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
 ## Resources
 #### Images
 * [Images](https://source.unsplash.com/)
