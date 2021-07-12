@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  width: auto;
+}
+
+#containNav {
+  display: flex;
+  justify-content: space-between;
+}
+.main {
+  background-color: transparent;
+  align-items: center;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+.oceanImage {
+  width: 100%;
+  height: 90vh;
+  margin-top: 2vh;
+}
+
+#button {
+  margin-top: 2vh;
+  margin-right: 3.5vh;
+}
+.fa {
+  margin-right: 10px;
+  color: #595959;
+}
+.custom-btn {
+  width: 130px;
+  height: 30px;
+  color: #fff;
+  font-family:sans-serif;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  margin: 0px 5px;
+}
+.btn-9 {
+  border: none;
+  transition: all 0.3s ease;
+  overflow: hidden;
+  background-color: #29b088;
+  border-radius: 20px;
+}
+
+
+.btn-12 {
+  border: none;
+  transition: all 0.3s ease;
+  overflow: hidden;
+  background-color: #6b6b6b;
+  border-radius: 20px;
+}
+
+
+
+
+
