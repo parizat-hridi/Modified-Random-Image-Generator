@@ -7,7 +7,7 @@ The [Modified Version](https://parizat-hridi.github.io/Modified-Random-Image-Gen
 
 ## Visual Representation of GeneratorMix App:
 
-![modified](https://user-images.githubusercontent.com/43074604/125283713-7d04b180-e33a-11eb-9dc0-6bac9e78ac92.png)
+![ss](https://user-images.githubusercontent.com/43074604/125284011-c6550100-e33a-11eb-8a83-cc5ebf624b78.png)
 
 ## Routing Code
 ```html
