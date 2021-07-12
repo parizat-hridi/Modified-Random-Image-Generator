@@ -1,15 +1,12 @@
-# GeneratorMix App
+# Modified Random Image Generator App
 ----
-## What is this "GeneratorMix App" about?
-The [GeneratorMix App](https://csb-3mbpy.netlify.app/) is designed to provide some image related advantages and explore basic HTML, CSS and JS.
+## What is this App about?
+The [Modified Version](https://parizat-hridi.github.io/Modified-Random-Image-Generator/) is designed to provide some image related advantages and explore basic HTML, CSS and JS.
 
-## Visit the live "GeneratorMix App" here ==> https://parizat-hridi.github.io/Modified-Random-Image-Generator/
+## Visit the live App here ==> https://parizat-hridi.github.io/Modified-Random-Image-Generator/
 
 ## Visual Representation of GeneratorMix App:
-
-![ipadPro Version](https://user-images.githubusercontent.com/43074604/125210448-b0efc080-e2c1-11eb-8b16-83b74929b4ad.png)
-
-![surfcaeDuo Version](https://user-images.githubusercontent.com/43074604/125210483-e4cae600-e2c1-11eb-89e6-1f274040c7cc.png)
+![2](https://user-images.githubusercontent.com/43074604/125283355-2ac39080-e33a-11eb-8bed-c6d38fcd3c3d.png)
 
 ## Routing Code
 ```html
